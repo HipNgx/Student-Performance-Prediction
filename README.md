@@ -11,10 +11,10 @@ Dự án này là một bài toán **Phân loại nhị phân (Binary Classifica
 
 | Thành viên | Nhiệm vụ trọng tâm | Tên nhánh làm việc (Branch) |
 | :--- | :--- | :--- |
-| **[Nguyễn Trường Lân]** | Thu thập, kiểm tra và làm sạch dữ liệu. | `task1-data-cleaning` |
-| **[Vũ Ngọc Yến Trâm]** | Khám phá dữ liệu (EDA), phân tích và chọn feature. | `task2-eda-features` |
-| **[Đàm Đình Hiệp]** | Chia tập Train/Test, xây Baseline model & Decision Tree. | `task3-decision-tree` |
-| **[Trần Tuấn Hiệp]** | Chuẩn hóa dữ liệu (Scaling) & Logistic Regression. | `task4-logistic-regression` |
+| **Nguyễn Trường Lân** | Thu thập, kiểm tra và làm sạch dữ liệu. | `task1-data-cleaning` |
+| **Vũ Ngọc Yến Trâm** | Khám phá dữ liệu (EDA), phân tích và chọn feature. | `task2-eda-features` |
+| **Đàm Đình Hiệp** | Chia tập Train/Test, xây Baseline model & Decision Tree. | `task3-decision-tree` |
+| **Trần Tuấn Hiệp** | Chuẩn hóa dữ liệu (Scaling) & Logistic Regression. | `task4-logistic-regression` |
 
 > **Quy ước chung cho cả nhóm:** Phần đánh giá mô hình, chạy test dự đoán thử nghiệm và làm slide thuyết trình sẽ được cả 4 thành viên cùng họp lại để thực hiện ở Ngày 3.
 
